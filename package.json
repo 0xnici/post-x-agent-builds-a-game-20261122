@@ -1,0 +1,9 @@
+{
+  "name": "post-x-agent-builds-a-game-20261122",
+  "version": "1.0.0",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "start": "node main.ts"
+  }
+}

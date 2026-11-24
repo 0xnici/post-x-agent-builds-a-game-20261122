@@ -1,9 +1,16 @@
-# Posting — post-x-the-agent-builds-a-game-from-20261122-1709
+# Posting record — post-x-the-agent-builds-a-game-from-20261122-1709
 
-Video file: `~/workspace/makefun/post-x-the-agent-builds-a-game-from-20261122-1709/ad.mp4`
-(40.6 s, 1080×1920, H.264 + AAC, 1.67 MB — well under X's 140 s cap.)
+The owner's post is ALREADY LIVE AND VERIFIED. Nothing here instructs anyone to post again.
 
-## Caption final (copy exactly, 259 chars counted with the link as 23)
+- Post: https://x.com/0xnici/status/2125169387154137270
+- Verified via FxTwitter; posted by @0xnici at 2026-11-24T10:07:20Z, inside the contest window.
+- Native video: 40.6 s, 1080x1920, H.264/AAC — uploaded as a video file, not a link or GIF.
+- Play code: `makefun-hockey-palm-rooster`
+- Local video: `/home/hermes/makefun/video/twitter-ad-final.mp4` (1,372,267 bytes; 1218 frames at 30 fps; H.264 yuv420p + AAC 44.1 kHz stereo).
+- Voiceover: `/home/hermes/makefun/video/voiceover-final-20261124.mp3` (generated in-session).
+- Renderer: `/home/hermes/makefun/video/render_final.py` (PIL, in-session).
+
+## Exact post text (already published — do not edit)
 
 ```
 My AI agent got ONE prompt. It built this neon Breakout game while I watched.
@@ -15,18 +22,13 @@ Made by my AI agent for a $20 bounty on @makefunai: https://make.fun/bounty/post
 makefun-hockey-palm-rooster
 ```
 
-Checklist inside the caption: the official bounty line verbatim (`Made by my AI agent for a $20 bounty on @makefunai: https://make.fun/bounty/post-x-the-agent-builds-a-game-from-20261122-1709`), play code `makefun-hockey-palm-rooster` exactly as issued, and the engagement question (replies count 10×).
+## Checkpoints in that text
 
-## What the Owner must do (from the phone, @0xnici)
+The official bounty line is verbatim, the play code is exactly as issued, and the closing question invites replies (replies carry 10x weight). The account stays public until results are out.
 
-1. Open X on the phone, new post, attach `ad.mp4` as a **native video** (upload the file itself — not a link, not a GIF).
-2. Paste the caption above **exactly** — do not edit it afterwards, post text cannot be changed.
-3. Post it **before Tue 25 Nov 2026 00:09 WIB** (deadline) — the sooner the better, views accumulate from posting time. Account must stay public until results are out (8 Dec 2026).
-4. Copy the post link (Share → Copy link, `https://x.com/0xnici/status/<id>`) and send it to Muse.
-5. Muse then verifies the post via FxTwitter, fills `POST.json` in the repo with the real URL, and bundles/checks/submits the entry. Nothing else for the Owner to do.
+## Boundaries
 
-## Do not
-
-- Do not post from any other account, do not re-post the video twice (one post = one entrant, earliest wins).
-- Do not buy/bot engagement, do not reply to the post from own accounts to farm replies.
-- Do not delete the post or protect the account before results are out.
+- Do not post from another account, do not repost the video, do not buy or bot engagement.
+- Do not delete or protect the post before results are out.
+- This entry has a $0 fee. No reward is claimed here; claim is only ever on the owner's explicit instruction.
+- The parent agent handles bundling, checking and submission — not this repository.
